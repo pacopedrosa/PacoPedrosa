@@ -25,3 +25,15 @@ Software Developer
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
+### 📈 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacopedrosa&hide=c%2B%2B)](https://github.com/pacopedrosa/github-readme-stats)
+
+
+---
+
+### 🌐 Let’s Connect!
+
+<a href="https://www.linkedin.com/in/paco-pedrosa-b27764358/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+</a>
